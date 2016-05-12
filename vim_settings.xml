@@ -1,0 +1,43 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Singleton.txt.ft" timestamp="1463072824680">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1463072775905">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Ruby File Header.txt.ft" timestamp="1463072812908">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Unnamed.txt.ft" timestamp="1463072807523">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1463072724853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1463072758203">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
